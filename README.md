@@ -28,14 +28,20 @@
 
   ---
 
-  <!-- 🐍 CONTRIBUTION SNAKE -->
-  <h3>🐍 Contribution Snake</h3>
+  <!-- 🎮 INTERACTIVE GAME -->
+  <h3>🎮 Play a Game</h3>
+
+  <p>
+    <i>Take a quick break and play Connect Four! 🎮</i>
+  </p>
 
   <p align="center">
-    <img
-      src="https://raw.githubusercontent.com/wajidullahsafi994-ai/wajidullahsafi994-ai/output/github-snake-dark.svg"
-      alt="Contribution Snake"
-    />
+    <a href="https://github.com/wajidullahsafi994-ai/wajidullahsafi994-ai">
+      <img
+        src="https://github-readme-connect-four.vercel.app/api?theme=tokyonight"
+        alt="Connect Four Game"
+      />
+    </a>
   </p>
 
   ---
