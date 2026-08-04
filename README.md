@@ -1,37 +1,45 @@
 <div align="center">
 
-  <!-- 🔥 ANIMATED HEADER BANNER -->
+  <!-- 👋 ANIMATED HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Wajidullah Safi;Software+Engineer;Full-Stack+%26+Mobile+Dev;Always+Building+%26+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Wajidullah+Safi;Computer+Science+Student;Developer+%26+Problem+Solver;Always+Learning+%26+Building..." alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <code><b>Developer</b></code> • <code><b>Problem Solver</b></code> • <code><b>Tech Enthusiast</b></code>
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
+    <code><b>Computer Science Student</b></code> •
+    <code><b>Developer</b></code> •
+    <code><b>Tech Enthusiast</b></code>
   </p>
 
   ---
 
-  <!-- ⚙️ TECH STACK (Categorized Badges with Glowing Icons) -->
-  <h3>🛠️ Tech Stack & Skill Set</h3>
+  <!-- 🛠️ SKILLS -->
+  <h3>🛠️ Skills & Technologies</h3>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,github,figma,vscode&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,mysql,git,js&perline=6" alt="Skills" />
+  </p>
+
+  <p>
+    <b>Java</b> •
+    <b>Python</b> •
+    <b>HTML</b> •
+    <b>MySQL</b> •
+    <b>Object-Oriented Programming (OOP)</b> •
+    <b>Git</b> •
+    <b>JavaScript</b>
   </p>
 
   ---
 
-  <!-- 🎮 INTERACTIVE README GAMES -->
-  <h3>🎮 Interactive Profile Games</h3>
-  <p><i>Play a quick game directly on my profile!</i></p>
+  <!-- 🎮 INTERACTIVE PROFILE GAME -->
+  <h3>🎮 Interactive Profile Game</h3>
+
+  <p>
+    <i>Take a quick break and play a game!</i>
+  </p>
 
   <p align="center">
-    <!-- Connect 4 Game -->
     <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME">
       <img src="https://github-readme-connect-four.vercel.app/api?theme=tokyonight" alt="Connect Four Game" />
     </a>
@@ -41,28 +49,30 @@
 
   <!-- 🏆 GITHUB TROPHIES -->
   <h3>🏆 GitHub Trophies</h3>
+
   <p>
-    <img src="https://github-profile-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
+    <img src="https://github-profile-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </p>
 
   ---
 
-  <!-- 📊 ANALYTICS & STATS -->
+  <!-- 📊 GITHUB ANALYTICS -->
   <h3>📊 GitHub Analytics</h3>
 
   <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats Card" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Languages Card" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 
   ---
 
-  <!-- 🐍 CONTRIBUTION SNAKE GAME -->
-  <h3>🐍 Contribution Snake Animation</h3>
+  <!-- 🐍 CONTRIBUTION SNAKE -->
+  <h3>🐍 Contribution Snake</h3>
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Contribution Snake" />
@@ -70,16 +80,16 @@
 
   ---
 
-  <!-- 💬 RANDOM DEV QUOTE -->
-  <h3>💡 Daily Developer Quote</h3>
+  <!-- 💡 DEVELOPER QUOTE -->
+  <h3>💡 Developer Quote</h3>
 
   <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
   </p>
 
   ---
 
-  <!-- 👁️ PROFILE VIEWS COUNTER -->
+  <!-- 👁️ PROFILE VIEWS -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=007ec6" alt="Profile Views" />
   </p>
