@@ -28,24 +28,6 @@
 
   ---
 
-  <!-- 🎮 INTERACTIVE GAME -->
-  <h3>🎮 Play a Game</h3>
-
-  <p>
-    <i>Take a quick break and play Connect Four! 🎮</i>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/wajidullahsafi994-ai/wajidullahsafi994-ai">
-      <img
-        src="https://github-readme-connect-four.vercel.app/api?theme=tokyonight"
-        alt="Connect Four Game"
-      />
-    </a>
-  </p>
-
-  ---
-
   <!-- 💡 DEVELOPER QUOTE -->
   <h3>💡 Developer Quote</h3>
 
